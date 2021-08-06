@@ -1,0 +1,9 @@
+messages:
+  onEnable: "plugin rainlox's Trading is enabled"
+  onDisable: "plugin rainlox's Trading is enabled"
+  success: "Item stack was transferred to the player "
+  error: "ERROR: item stack wasn't transferred the to player"
+  cleanInv: "Clear your inventory before you start trading. You don't have an empty space!"
+  errors:
+    tooFarError: "Player is too far away from you, max range is 10 blocks"
+    unknownError: "Here is unknown error, you are lucky"

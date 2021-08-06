@@ -1,0 +1,11 @@
+name: RainloxsTrading
+version: 1.0
+main: md.rainlox.rainloxs_trading.Main
+api-version: 1.13
+commands:
+#  pay:
+#    description: Pays some money to specified player
+#    usage: /pay {player name} {amount}
+  trade:
+    description: Gives the item stack that are in your right hand to the specified player. Player must be close to you.
+    usage: /trade {player name}

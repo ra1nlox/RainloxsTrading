@@ -1,7 +1,7 @@
 # RainloxsTrading
 
 A plugin maded for minecraft server to trade items more realisticly.
-### WARGNING
+### WARNING
 Needs EssenstialsX to pay money and other fancy things
 
 ## Use
